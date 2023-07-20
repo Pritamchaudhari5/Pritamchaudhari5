@@ -55,6 +55,3 @@ I am a Full Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcM
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
---->
