@@ -4,16 +4,15 @@ Pritamchaudhari5/Pritamchaudhari5 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"  /></p>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/Pritamchaudhari5"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Pritamchaudhari5&style=flat-square&color=blue" alt=""></p>
-
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :technologist: &nbsp;About Me :
 
@@ -22,11 +21,13 @@ I am a Full Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcM
 - 👋 Hi, I’m Pritam Chaudhari
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning at Ineuron
-- 💞️ I’m looking to collaborate on Data Science project
+- 💞️ I’m looking to collaborate on a Data Science project
 - 🔭 I’m working as a Machine Learning intern building a model from scratch of data.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: [pritamchaudhari55@gmail.com] &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Pritamchaudhari5-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Pritamchaudhari5/) 
+
+
 
 ---
 
@@ -43,7 +44,6 @@ I am a Full Stack Data Scientist <img src="https://media.giphy.com/media/WUlplcM
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
----
 ---
 
 ### 🔥 &nbsp; My Stats :
